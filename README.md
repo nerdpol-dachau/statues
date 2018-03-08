@@ -1,7 +1,5 @@
-# The Hacking Room Project
+# Der Nerdpol Dachau
 
-Some resources for the Hacking Room Project, a new hackerspace for Munich.
+Ein neuer Makerspace für Dachau
 
-After the etherpad that was used got screwed up somehow, I decided to through this in a git repo real quick.
-
-Check out http://hackingroom.de/wiki/ for more information
+Satzung und Beitragsordnung, forked vom MunichMakerLab
