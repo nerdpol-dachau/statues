@@ -12,13 +12,13 @@ Rund um Open Source, Freie Software und Internet-Visionäre hat sich eine neue, 
 
 Dieser Entwicklung und dem technologischen Fortschritt ist es zu verdanken das neuartige Herstellungs- und Bearbeitungsverfahren wie 3D-Druck, Laserschnitt oder die CAD gesteuerte Frästechnik für Privatpersonen zugänglich werden. Die Möglichkeiten dieser neuen Techniken sind noch lange nicht ausgelotet, und bieten attraktive neue Betätigungsfelder für technisch- sowie designinteressierte Menschen. 
 
-Der Nerdpol Dachau möchte die gesellschaftliche Entwicklung und das globale, freie Wissen voranbringen. Basierend auf der Grundlage des kollaborativen Wissensaustauschs geht es um den Neuerwerb von Wissen für die Gesellschaft durch den Austausch zwischen Spezialisten in den verschiedensten Bereichen und der Verbindung verschiedenster Bereiche moderner Technologien. Seine Mitglieder beschäftigen sich zum Beispiel in den Bereichen 3D-Druck, Mikrocontroller, Schaltungsdesign, digitale Demokratie, CAD / CAM, elektronische Musik, alternative Telekommunikationsinfrastruktur, Fotografie, angewandte Kryptographie, Augmented Reality, Systemtheorie, objektorientierte und imperative Programmierung von Arduino über Java bis hin zu Shell oder Python sowie der Nutzung neuer Technologien in der Gegenwartskunst.
+Der Dachauer Makerspace möchte die gesellschaftliche Entwicklung und das globale, freie Wissen voranbringen. Basierend auf der Grundlage des kollaborativen Wissensaustauschs geht es um den Neuerwerb von Wissen für die Gesellschaft durch den Austausch zwischen Spezialisten in den verschiedensten Bereichen und der Verbindung verschiedenster Bereiche moderner Technologien. Seine Mitglieder beschäftigen sich zum Beispiel in den Bereichen 3D-Druck, Mikrocontroller, Schaltungsdesign, digitale Demokratie, CAD / CAM, elektronische Musik, alternative Telekommunikationsinfrastruktur, Fotografie, angewandte Kryptographie, Augmented Reality, Systemtheorie, objektorientierte und imperative Programmierung von Arduino über Java bis hin zu Shell oder Python sowie der Nutzung neuer Technologien in der Gegenwartskunst.
 
 II. Hauptteil der Satzung
 
 §1 Name, Sitz, Eintragung, Geschäftsjahr
 
-(1) Der Verein trägt den Namen Nerdpol
+(1) Der Verein trägt den Namen Dachauer Makerspace
 (2) Er hat seinen Sitz in Dachau.
 (3) Er wird in das Vereinsregister beim Registergericht Dachau eingetragen.
 (4) Geschäftsjahr ist das Kalenderjahr.
